@@ -8,7 +8,7 @@
 <h1 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h1>
 
 <!-- AÑADIDO: FORMACIÓN Y MENSAJE -->
-- 📚 **Técnico Superior en ASIR (en curso) — IES Francisco de Quevedo (2024 – Actualidad)**
+- 📚 **Técnico Superior en ASIR — IES Francisco de Quevedo (2024 – Actualidad)**
 - 📚 **Técnico en SMR — IES Francisco de Quevedo (2021 – 2023)**
 - ✍️ **Actualmente estoy cursando 2 ASIR y utilizaré este GitHub para subir mis tareas, prácticas y progreso a lo largo del curso.**
 

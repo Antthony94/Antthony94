@@ -12,6 +12,15 @@
 - 📚 **Técnico en SMR — IES Francisco de Quevedo (2021 – 2023)**
 - ✍️ **Actualmente estoy cursando 2 ASIR, buscando practicas en empresa y utilizaré este GitHub para subir mis tareas, prácticas y progreso a lo largo del curso.**
 
+<h1 <P> Skills </h1>
+<span>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+</span>
+
+
 <!-- CONTACTO -->
 <h3 align="left">Contactame en:</h3>
 <p align="left">

@@ -57,22 +57,6 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </p>
 
----
-
-<!-- ──────────────────────────────── -->
-<!--      GITHUB STATS                -->
-<!-- ──────────────────────────────── -->
-<h2 align="left">
-  <img src="https://media.giphy.com/media/ZcnpEi6IHhZ2w/giphy.gif" width="40">
-  Mis estadísticas
-</h2>
-
-<div align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ancordova&theme=tokyonight&hide_border=true">
-</div>
-
----
-
 <!-- ──────────────────────────────── -->
 <!--      CONTACTO                    -->
 <!-- ──────────────────────────────── -->

@@ -31,7 +31,7 @@
 
 - 🎓 **Técnico Superior en ASIR** — IES Francisco de Quevedo (2024 – Actualidad)  
 - 🖥️ **Técnico en SMR** — IES Francisco de Quevedo (2021 – 2023)  
-- 📌 Actualmente cursando **2º ASIR**, buscando **prácticas** donde aplicar mis conocimientos en sistemas, redes y ciberseguridad.  
+- 📌 Actualmente cursando **2º ASIR**, en busca de **empleo** donde aplicar mis conocimientos en sistemas, redes y ciberseguridad.  
 - 📂 Este GitHub será mi espacio para subir **prácticas, scripts, proyectos y progreso profesional**.  
 
 ---

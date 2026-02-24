@@ -55,6 +55,15 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  <h2 align="left">
+  <img src="https://media.giphy.com/media/l41lSLto3wzWuN9Be/giphy.gif" width="40">
+  Certificaciones Oficiales
+</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sophos-Firewall_Certified_Engineer_v22.0-0B59A2?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Firewall">
+  <img src="https://img.shields.io/badge/Sophos-Endpoint_Certified_Engineer_v6.0-0B59A2?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Endpoint">
+</p>
 </p>
 
 <!-- ──────────────────────────────── -->

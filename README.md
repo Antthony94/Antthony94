@@ -29,10 +29,11 @@
   Sobre mí
 </h2>
 
-- 🎓 **Técnico Superior en ASIR** — IES Francisco de Quevedo (2024 – Actualidad)  
+- 💼 **Prácticas ASIR (Sistemas y Ciberseguridad)** — LIDER IT CONSULTING S.A. (Actualidad). *Gestionando infraestructura, M365, redes y soporte N1/N2 en entorno MSP.*
+- 🎓 **Técnico Superior en ASIR** — IES Francisco de Quevedo (2024 – 2026)  
 - 🖥️ **Técnico en SMR** — IES Francisco de Quevedo (2021 – 2023)  
-- 📌 Actualmente cursando **2º ASIR**, en busca de **empleo** donde aplicar mis conocimientos en sistemas, redes y ciberseguridad.  
-- 📂 Este GitHub será mi espacio para subir **prácticas, scripts, proyectos y progreso profesional**.  
+- 📌 **En búsqueda activa de empleo:** Busco mi primera oportunidad laboral como **Junior Sysadmin / Técnico de Infraestructura / Ciberseguridad** para incorporarme al finalizar mis prácticas.  
+- 📂 Este GitHub es mi base de conocimiento: aquí subo mis scripts de PowerShell, configuraciones de infraestructura y progreso profesional.
 
 ---
 
